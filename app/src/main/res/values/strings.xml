@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="question_sanaa">Sanaa is the Capital of Yemen</string>
+    <string name="question_taiz">cairo Castel is In Taiz</string>
+    <string name="question_hodaidah">Aden Gulf is In Hodiaiah</string>
+    <string name="question_ibb">Ibb is a Green Land</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">prev</string>
+    <string name="correct_toast">your answer is correct</string>
+    <string name="incorrect_toast">your answer is incorrect</string>
+</resources>
