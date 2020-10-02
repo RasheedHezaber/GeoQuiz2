@@ -45,7 +45,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:paddingTop="15dp">
-        <Button
+        <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/back_button"
@@ -54,15 +54,15 @@
 
             >
 
-        </Button>
-        <Button
+        </ImageButton>
+        <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/next_button"
             android:id="@+id/next_button"
             android:src="@drawable/ic_baseline_arrow_forward_ios_24">
 
-        </Button>
+        </ImageButton>
 
     </LinearLayout>
 

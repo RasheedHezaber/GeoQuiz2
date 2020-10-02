@@ -11,8 +11,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
     private lateinit var truebutton:Button
     private lateinit var falsebutton:Button
-    private lateinit var nextbutton:Button
-    private lateinit var prevbutton:Button
+    private lateinit var nextbutton:ImageButton
+    private lateinit var prevbutton:ImageButton
     private lateinit var questionTextView:TextView
     private val questionbank = listOf(
         Question(R.string.question_sanaa,true),
